@@ -29,3 +29,6 @@ Okta Process:
 
 Helpful Youtube video:
 https://www.youtube.com/watch?v=5j4FXMQBzmg
+
+Helpful links:
+https://developer.okta.com/docs/reference/api/users/

@@ -14,6 +14,8 @@ Visual Studio Code
 
 Used Github to brodcast the webpage for free. I used this to change the style and test those changes.
 
+_______________________________________________________________________________________________________________
+
 Okta Process:
 
 1) Created a developer profile. 
@@ -21,6 +23,8 @@ Okta Process:
 2) Went to applications. Created/added a new app. Picked *WEB APP*.  
 
 3) Using the Active Directory I created in AWS I asigned users and groups to that *WEB APP*.
+
+
 
 
 Helpful Youtube video:
